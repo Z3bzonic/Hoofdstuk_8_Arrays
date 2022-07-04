@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\bin\Debug\net6.0\Assignment_Oefening_Vraag_Array.exe
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\bin\Debug\net6.0\Assignment_Oefening_Vraag_Array.deps.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\bin\Debug\net6.0\Assignment_Oefening_Vraag_Array.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\bin\Debug\net6.0\Assignment_Oefening_Vraag_Array.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\bin\Debug\net6.0\Assignment_Oefening_Vraag_Array.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\refint\Assignment_Oefening_Vraag_Array.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\Assignment_Oefening_Vraag_Array.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_Vraag_Array\obj\Debug\net6.0\ref\Assignment_Oefening_Vraag_Array.dll

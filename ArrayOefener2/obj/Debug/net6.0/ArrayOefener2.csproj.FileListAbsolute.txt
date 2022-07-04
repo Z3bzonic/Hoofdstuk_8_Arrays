@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\bin\Debug\net6.0\ArrayOefener2.exe
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\bin\Debug\net6.0\ArrayOefener2.deps.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\bin\Debug\net6.0\ArrayOefener2.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\bin\Debug\net6.0\ArrayOefener2.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\bin\Debug\net6.0\ArrayOefener2.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\refint\ArrayOefener2.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ArrayOefener2.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\ArrayOefener2\obj\Debug\net6.0\ref\ArrayOefener2.dll
