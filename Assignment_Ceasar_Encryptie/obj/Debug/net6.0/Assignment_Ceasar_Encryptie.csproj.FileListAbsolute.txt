@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\bin\Debug\net6.0\Assignment_Ceasar_Encryptie.exe
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\bin\Debug\net6.0\Assignment_Ceasar_Encryptie.deps.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\bin\Debug\net6.0\Assignment_Ceasar_Encryptie.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\bin\Debug\net6.0\Assignment_Ceasar_Encryptie.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\bin\Debug\net6.0\Assignment_Ceasar_Encryptie.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\refint\Assignment_Ceasar_Encryptie.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\Assignment_Ceasar_Encryptie.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Ceasar_Encryptie\obj\Debug\net6.0\ref\Assignment_Ceasar_Encryptie.dll
