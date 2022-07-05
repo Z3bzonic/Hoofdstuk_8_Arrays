@@ -1,0 +1,15 @@
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\bin\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.exe
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\bin\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.deps.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\bin\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.runtimeconfig.json
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\bin\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\bin\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.csproj.AssemblyReference.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.GeneratedMSBuildEditorConfig.editorconfig
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.AssemblyInfoInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.AssemblyInfo.cs
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.csproj.CoreCompileInputs.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\refint\Assignment_Oefening_LeveringsBedrijf.dll
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.pdb
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\Assignment_Oefening_LeveringsBedrijf.genruntimeconfig.cache
+Z:\repos\Cursus\Hoofdstuk_8_Arrays\Assignment_Oefening_LeveringsBedrijf\obj\Debug\net6.0\ref\Assignment_Oefening_LeveringsBedrijf.dll
