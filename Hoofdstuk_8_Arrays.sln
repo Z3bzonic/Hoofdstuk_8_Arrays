@@ -5,13 +5,15 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOefener1", "ArrayOefener1\ArrayOefener1.csproj", "{C1149D8D-1696-4476-8CB4-128228AD75E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOefener2", "ArrayOefener2\ArrayOefener2.csproj", "{1B533732-7129-484B-B2D6-F74CD5AA683C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayOefener2", "ArrayOefener2\ArrayOefener2.csproj", "{1B533732-7129-484B-B2D6-F74CD5AA683C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Oefening_Vraag_Array", "Assignment_Oefening_Vraag_Array\Assignment_Oefening_Vraag_Array.csproj", "{5F417D67-4618-4566-AC49-3885D7095000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Oefening_Vraag_Array", "Assignment_Oefening_Vraag_Array\Assignment_Oefening_Vraag_Array.csproj", "{5F417D67-4618-4566-AC49-3885D7095000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Zoeker", "Array_Zoeker\Array_Zoeker.csproj", "{E1D2422E-7BA8-4690-82E7-C9840D219817}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_Zoeker", "Array_Zoeker\Array_Zoeker.csproj", "{E1D2422E-7BA8-4690-82E7-C9840D219817}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Ceasar_Encryptie", "Assignment_Ceasar_Encryptie\Assignment_Ceasar_Encryptie.csproj", "{58DC8946-DE78-4E1F-8AAB-31388A7C6CD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment_Ceasar_Encryptie", "Assignment_Ceasar_Encryptie\Assignment_Ceasar_Encryptie.csproj", "{58DC8946-DE78-4E1F-8AAB-31388A7C6CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment_Oefening_LeveringsBedrijf", "Assignment_Oefening_LeveringsBedrijf\Assignment_Oefening_LeveringsBedrijf.csproj", "{B8D5451D-62DE-4207-A963-B563B774F164}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{58DC8946-DE78-4E1F-8AAB-31388A7C6CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58DC8946-DE78-4E1F-8AAB-31388A7C6CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58DC8946-DE78-4E1F-8AAB-31388A7C6CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D5451D-62DE-4207-A963-B563B774F164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D5451D-62DE-4207-A963-B563B774F164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D5451D-62DE-4207-A963-B563B774F164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D5451D-62DE-4207-A963-B563B774F164}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
