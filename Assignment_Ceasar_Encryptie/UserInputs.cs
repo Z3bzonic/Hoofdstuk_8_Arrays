@@ -19,16 +19,20 @@ namespace Assignment_Ceasar_Encryptie
             List<string> userMessage = new List<string>();
             string lastItem = "";
             int itemCount = 0;
-            Console.WriteLine("Schrijf een zin of woord om te encrypteren. typ '²' om te stoppen met de invoer");
+            Console.WriteLine("Schrijf woord(en)zonder spatie om te encrypteren. typ '²' om te stoppen met de invoer");
             while (lastItem != "²")
             {
-                userMessage.Add(Console.ReadLine());
-                lastItem = userMessage.Last();
-                userMessage.Add(" ");
-                Console.Write($"{lastItem} ");
-                Console.SetCursorPosition(lastItem.Length, 3);
-                itemCount += lastItem.Length;
+                lastItem = Console.ReadLine();
+                if (lastItem != "²")
+                {
+                    userMessage.Add(lastItem);
+                    userMessage.Add(" ");
+                    Console.Write($"{lastItem} ");
+                    Console.SetCursorPosition(lastItem.Length, 3);
+                    itemCount += lastItem.Length;
+                }
             }
+            userMessage.RemoveAt(userMessage.Count - 1);    
             string listToArrayFromUserMessage = String.Join("", userMessage.ToArray());
             char[] userMessageInChars = listToArrayFromUserMessage.ToCharArray();
             Console.Clear();
